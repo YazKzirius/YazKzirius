@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- Undergraduate  Computer Science and Mathematics student at University of Bath and aspiring Mobile App developer and Machine learning/Natural language processing(NLP) engineer
+- Aspiring Mobile App developer and Machine learning/Natural language processing(NLP) engineer
 - My experience is currently in Android Studio development through my online music streaming app KzMusic and Python GUI with my desktop Graphical Calculator tool, KzGraph. Currently, I'm also creating KzAnalysis, which will be an online video analysis LLM tool for Taekwondo sparring performance review.
 # ⚡ My Tech Stack
 
