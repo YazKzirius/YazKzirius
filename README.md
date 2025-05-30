@@ -39,13 +39,13 @@ Here are some ideas to get you started:
 
 # 💻 Project Showcase
 <figure>
-  <img src="https://github.com/YazKzirius/YazKzirius/blob/main/kzmusic_showcase.jpg" width="300">
   <figcaption>🎵 KZ Music Showcase</figcaption>
+  <img src="https://github.com/YazKzirius/YazKzirius/blob/main/kzmusic_showcase.jpg" width="300">
 </figure>
 
 <figure>
-  <img src="https://github.com/YazKzirius/YazKzirius/blob/main/Kzgraph_showcase.jpg" width="300">
   <figcaption>📊 KZ Graph Showcase</figcaption>
+  <img src="https://github.com/YazKzirius/YazKzirius/blob/main/Kzgraph_showcase.jpg" width="300">
 </figure>
 
 
