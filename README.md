@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - **VS Code & Jupyter Notebook**
 
 # 💻 Project Showcase
-![KzMusic Showcase](https://raw.githubusercontent.com/YazKzirius/YazKzirius/main/kzmusic_showcase.jpeg)
+![KzMusic Showcase](https://github.com/YazKzirius/YazKzirius/blob/main/kzmusic_showcase.jpg)
 
-![KzGraph Showcase](https://raw.githubusercontent.com/YazKzirius/YazKzirius/main/Kzgraph_showcase.jpeg)
+![KzGraph Showcase](https://github.com/YazKzirius/YazKzirius/blob/main/Kzgraph_showcase.jpg)
 
