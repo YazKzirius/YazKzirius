@@ -38,28 +38,28 @@ Here are some ideas to get you started:
 - **VS Code & Jupyter Notebook**
 
 # 💻 Project Showcase
-<div style="display: flex; gap: 10px;">
-  <figure>
-    <figcaption>🎵 KZ Music Showcase 1</figcaption>
-    <img src="https://github.com/YazKzirius/YazKzirius/blob/main/kzmusic_showcase.jpg" width="300">
-  </figure>
+<div style="display: flex; gap: 20px; align-items: center; flex-direction: column;">
+  <div style="display: flex; gap: 20px;">
+    <div style="text-align: center;">
+      <p><strong>🎵 KZ Music Showcase 1</strong></p>
+      <img src="https://github.com/YazKzirius/YazKzirius/blob/main/kzmusic_showcase.jpg" width="300">
+    </div>
+    <div style="text-align: center;">
+      <p><strong>🎵 KZ Music Showcase 2</strong></p>
+      <img src="https://github.com/YazKzirius/YazKzirius/blob/main/kzmusic_showcase2.jpg" width="300">
+    </div>
+  </div>
 
-  <figure>
-    <figcaption>🎵 KZ Music Showcase 2</figcaption>
-    <img src="https://github.com/YazKzirius/YazKzirius/blob/main/kzmusic_showcase2.jpg" width="300">
-  </figure>
-</div>
-
-<div style="display: flex; gap: 10px;">
-  <figure>
-    <figcaption>📊 KZ Graph Showcase 1</figcaption>
-    <img src="https://github.com/YazKzirius/YazKzirius/blob/main/Kzgraph_showcase.jpg" width="300">
-  </figure>
-
-  <figure>
-    <figcaption>📊 KZ Graph Showcase 2</figcaption>
-    <img src="https://github.com/YazKzirius/YazKzirius/blob/main/Kzgraph_showcase2.jpg" width="300">
-  </figure>
+  <div style="display: flex; gap: 20px;">
+    <div style="text-align: center;">
+      <p><strong>📊 KZ Graph Showcase 1</strong></p>
+      <img src="https://github.com/YazKzirius/YazKzirius/blob/main/Kzgraph_showcase.jpg" width="300">
+    </div>
+    <div style="text-align: center;">
+      <p><strong>📊 KZ Graph Showcase 2</strong></p>
+      <img src="https://github.com/YazKzirius/YazKzirius/blob/main/Kzgraph_showcase2.jpg" width="300">
+    </div>
+  </div>
 </div>
 
 
