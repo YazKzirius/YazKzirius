@@ -38,6 +38,14 @@ Here are some ideas to get you started:
 - **VS Code & Jupyter Notebook**
 
 # 💻 Project Showcase
-<img src = "https://github.com/YazKzirius/YazKzirius/blob/main/kzmusic_showcase.jpg" width="300">
-<img src = "https://github.com/YazKzirius/YazKzirius/blob/main/Kzgraph_showcase.jpg" width="300">
+<figure>
+  <img src="https://github.com/YazKzirius/YazKzirius/blob/main/kzmusic_showcase.jpg" width="300">
+  <figcaption>🎵 KZ Music Showcase</figcaption>
+</figure>
+
+<figure>
+  <img src="https://github.com/YazKzirius/YazKzirius/blob/main/Kzgraph_showcase.jpg" width="300">
+  <figcaption>📊 KZ Graph Showcase</figcaption>
+</figure>
+
 
