@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - **VS Code & Jupyter Notebook**
 
 # 💻 Project Showcase
-<div style="display: flex; gap: 20px;">
+<div style="display: flex; gap: 10px;">
   <figure>
     <figcaption>🎵 KZ Music Showcase 1</figcaption>
     <img src="https://github.com/YazKzirius/YazKzirius/blob/main/kzmusic_showcase.jpg" width="300">
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
   </figure>
 </div>
 
-<div style="display: flex; gap: 20px;">
+<div style="display: flex; gap: 10px;">
   <figure>
     <figcaption>📊 KZ Graph Showcase 1</figcaption>
     <img src="https://github.com/YazKzirius/YazKzirius/blob/main/Kzgraph_showcase.jpg" width="300">
