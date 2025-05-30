@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 ## 📱 Mobile Development
 - **Android Studio**
-- **Jetpack Compose**
 
 ## 🤖 Machine Learning & AI
 - **PyTorch** 
