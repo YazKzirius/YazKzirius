@@ -36,3 +36,9 @@ Here are some ideas to get you started:
 - **Git & GitHub**
 - **Expo**
 - **VS Code & Jupyter Notebook**
+
+# 💻 Project Showcase
+![File1](https://raw.githubusercontent.com/YazKzirius/YazKzirius/main/kzmusic_showcase.jpeg)
+
+![File2](https://raw.githubusercontent.com/YazKzirius/YazKzirius/main/Kzgraph_showcase.jpeg)
+
