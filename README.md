@@ -21,12 +21,10 @@ Here are some ideas to get you started:
 ## 🖥️ Programming Languages
 - **Python**
 - **Java**
-- **TypeScript**
 - **R**
 
 ## 📱 Mobile Development
 - **Android Studio**
-- **React-Native**
 
 ## 🤖 Machine Learning & AI
 - **PyTorch** 
@@ -34,7 +32,7 @@ Here are some ideas to get you started:
 
 ## 🛠️ Development Tools
 - **Git & GitHub**
-- **Expo**
+- **Windsurf**
 - **VS Code & Jupyter Notebook**
 
 # 💻 Project Showcase
