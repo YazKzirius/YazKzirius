@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - Aspiring Android Engineer and Natural language processing(NLP) researcher.
-- My experience is currently in Android Studio development through my online music streaming app KzMusic and Python GUI with my desktop Graphical Calculator tool, KzGraph. Currently, I'm also creating KzAnalysis, which will be an online video analysis LLM tool for Taekwondo sparring performance review.
+- My experience is currently in Android Studio development through my online music streaming and recommendation tool KzMusic. Currently, I'm also creating KzVision, which will be an online video analysis LLM tool for Taekwondo sparring performance review and KzAnalysis which will be generative AI used for important document querying.
 # ⚡ My Tech Stack
 
 ## 🖥️ Programming Languages
