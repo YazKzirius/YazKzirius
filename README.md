@@ -21,10 +21,12 @@ Here are some ideas to get you started:
 ## 🖥️ Programming Languages
 - **Python**
 - **Java**
+- **Kotlin**
 - **R**
 
 ## 📱 Mobile Development
 - **Android Studio**
+- **Jetpack Compose**
 
 ## 🤖 Machine Learning & AI
 - **PyTorch** 
