@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 ## 🖥️ Programming Languages
 - **Python**
 - **Java**
+- **C++**
 - **Kotlin**
 - **R**
 
