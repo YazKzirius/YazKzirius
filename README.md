@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- Aspiring Android Engineer and Natural language processing(NLP) researcher.
+- Aspiring Software Engineer and AI researcher.
 - My experience is currently in Android Studio development through my online music streaming and recommendation tool KzMusic. Currently, I'm also creating KzX which is a 3D space exploration game with Unreal Engine.
 # ⚡ My Tech Stack
 
@@ -25,11 +25,13 @@ Here are some ideas to get you started:
 - **Kotlin**
 - **R**
 
-## 📱 Mobile Development
+## 📱 Software engineering 
 - **Android Studio**
 - **Jetpack Compose**
+- **Unreal Engine**
+- **Blender**
 
-## 🤖 Machine Learning & AI
+## 🤖 AI Research 
 - **PyTorch** 
 - **Scikit-learn**
 
