@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- Aspiring Software Engineer and AI researcher.
+- Aspiring Software Engineer and Research Scientist.
 - My experience is currently in Android Studio development through my online music streaming and recommendation tool KzMusic.
 # ⚡ My Tech Stack
 
