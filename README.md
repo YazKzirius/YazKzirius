@@ -45,11 +45,11 @@ Here are some ideas to get you started:
   <div style="display: flex; gap: 20px;">
     <div style="text-align: center;">
       <p><strong>🎵 KZ Music Showcase 1</strong></p>
-      <img src="https://github.com/YazKzirius/YazKzirius/blob/main/kzmusic_showcase.jpg" width="300">
+      <img src="https://github.com/YazKzirius/YazKzirius/blob/main/Kzmusic1.png" width="300">
     </div>
     <div style="text-align: center;">
       <p><strong>🎵 KZ Music Showcase 2</strong></p>
-      <img src="https://github.com/YazKzirius/YazKzirius/blob/main/kzmusic_showcase2.jpg" width="300">
+      <img src="https://github.com/YazKzirius/YazKzirius/blob/main/Kzmusic2.png" width="300">
     </div>
   </div>
 
