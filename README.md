@@ -29,6 +29,9 @@ Here are some ideas to get you started:
 
 ## 📱 Software engineering 
 - **Android Studio**
+- **React**
+- **Flutter**
+- **React-Native**
 - **Jetpack Compose**
 - **Unreal Engine**
 - **Blender**
