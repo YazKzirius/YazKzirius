@@ -21,8 +21,10 @@ Here are some ideas to get you started:
 ## 🖥️ Programming Languages
 - **Python**
 - **Java**
+- **JavaScript**
 - **C++**
 - **Kotlin**
+- **Dart**
 - **R**
 
 ## 📱 Software engineering 
